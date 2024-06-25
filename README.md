@@ -56,7 +56,7 @@ For more about my projects, achievements, and professional journey, take a tour 
 </div>
 
 ## 📈 My GitHub Statistics
-![Syma's GitHub stats](https://github-readme-stats.vercel.app/api?username=syma-afsha&show_icons=true&theme=tokyonight)
+![Sazid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sazid669&show_icons=true&theme=tokyonight)
 
 <div style="color: #00BFFF;">
 Thank you for stopping by! If you’re excited by the mix of tech and creativity, let’s chat and see what amazing things we can build together.
