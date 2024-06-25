@@ -15,7 +15,7 @@ My passion lies in merging robotics with AI to address intricate problems and ma
 - Reinforcement Learning
 </div>
 
-## 👯 Seeking Collaboration On
+##🤼 Seeking Collaboration On
 <div style="color: #32CD32;">
 - Computer Vision Initiatives
 - Deep Learning Algorithms
