@@ -22,7 +22,7 @@ My passion lies in merging robotics with AI to address intricate problems and ma
 - Cutting-Edge Path Planning Methods
 </div>
 
-### 📢 Reach Out to Me: <a href="mailto:sazidarnob@gmail.com"><img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/footer-mail.png" alt="Email" style="width: 20px; height: 20px;"></a>
+### 📢 Reach Out to Me: <a href="mailto:sazidarnob@gmail.com"><img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/footer-mail.png" alt="Email" style="width: 30px; height: 30px;"></a>
 
 ## 😄 Pronouns: <span style="color: #FF1493;">He/Him</span>
 
