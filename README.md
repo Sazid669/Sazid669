@@ -30,10 +30,10 @@ My passion lies in merging robotics with AI to address intricate problems and ma
 
 ## 🤝 Connect with Me:
 <a href="https://www.linkedin.com/in/mir-mohibullah-sazid-a2ba80194/" target="_blank">
-    <img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/linkedin.png" alt="LinkedIn" style="width: 20px; height: 20px;">
+    <img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/linkedin.png" alt="LinkedIn" style="width: 50px; height: 50px;">
 </a>
 <a href="https://scholar.google.com/citations?user=TKrHms8AAAAJ&hl=en&oi=sra" target="_blank">
-    <img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/googlescholar.png" alt="Google Scholar" style="width: 20px; height: 20px;">
+    <img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/googlescholar.png" alt="Google Scholar" style="width: 50px; height: 50px;">
 </a>
 
 ## 🛠️ My Technical Toolbox
