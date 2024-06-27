@@ -42,7 +42,7 @@ Here are some of the tools and technologies I enjoy working with:
 </div>
 
 - **MS Office Suite**: Word, PowerPoint, Excel
-- **Programming Languages**: Python, C, MATLAB, Dart, JavaScript, Verilog HDL
+- **Programming Languages**: Python, C+, MATLAB,Verilog HDL
 - **Operating Systems**: Robot Operating System (ROS)
 - **Software & Tools**: Stonefish, Gazebo, Rosbag, CodeBlocks, Visual Studio, Proteus Design Suite, AutoCAD, Adobe Illustrator, Simulink
 - **Machine Learning**: TensorFlow, Scikit-Learn, PyTorch
