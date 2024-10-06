@@ -26,7 +26,7 @@ My passion lies in merging robotics with AI to address intricate problems and ma
 
 ## 😄 Pronouns: <span style="color: #FF1493;">He/Him</span>
 
-## 🎉 Fun Fact: <span style="color: #DAA520;">I'm an avid football player</span>
+## 🎉 Fun Fact: <span style="color: #DAA520;">I love paying football </span>
 
 ## 🤝 Connect with Me:
 <a href="https://www.linkedin.com/in/mir-mohibullah-sazid-a2ba80194/" target="_blank">
