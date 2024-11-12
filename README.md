@@ -13,6 +13,7 @@ My passion lies in merging robotics with AI to address intricate problems and ma
 <div style="color: #4682B4;">
 - Vision Transformers
 - Reinforcement Learning
+- Autoencoder
 </div>
 
 ## 🤼 Seeking Collaboration On
