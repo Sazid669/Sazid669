@@ -13,7 +13,7 @@ My passion lies in merging robotics with AI to address intricate problems and ma
 <div style="color: #4682B4;">
 - Vision Transformers
 - Reinforcement Learning
-- Autoencoder
+- Synthetic dataset generation
 </div>
 
 ## 🤼 Seeking Collaboration On
@@ -45,7 +45,7 @@ Here are some of the tools and technologies I enjoy working with:
 - **MS Office Suite**: Word, PowerPoint, Excel
 - **Programming Languages**: Python, C+, MATLAB.
 - **Operating Systems**: Linux, MacOS
-- **Software & Tools**: Robot Operating System (ROS), Stonefish, Gazebo, Rosbag, CodeBlocks, Visual Studio, Proteus Design Suite, AutoCAD, Adobe Illustrator, Simulink
+- **Software & Tools**: Robot Operating System (ROS), Stonefish, Gazebo, Rosbag, Pybullet, CodeBlocks, Visual Studio, Proteus Design Suite, AutoCAD, Adobe Illustrator, Simulink
 - **Machine Learning**: TensorFlow, Scikit-Learn, PyTorch
 - **Visualization**: Rviz, Plotjuggler, Matplotlib, Seaborn
 - **Computer Vision**: MATLAB, OpenCV
