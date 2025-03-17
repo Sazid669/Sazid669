@@ -11,8 +11,8 @@ My passion lies in merging robotics with AI to address intricate problems and ma
 
 ## 🌱 Currently Exploring
 <div style="color: #4682B4;">
-- Vision Transformers
-- Reinforcement Learning
+- Object tracking
+- Transfer Learning
 - Synthetic dataset generation
 </div>
 
@@ -30,7 +30,7 @@ My passion lies in merging robotics with AI to address intricate problems and ma
 ## 🎉 Fun Fact: <span style="color: #DAA520;">I love paying football </span>
 
 ## 🤝 Connect with Me:
-<a href="https://www.linkedin.com/in/mir-mohibullah-sazid-a2ba80194/" target="_blank">
+<a href="https://www.linkedin.com/in/mir-mohibullah-sazid-a2ba80194/" target="_blue">
     <img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/linkedin.png" alt="LinkedIn" style="width: 50px; height: 50px;">
 </a>
 <a href="https://scholar.google.com/citations?user=TKrHms8AAAAJ&hl=en&oi=sra" target="_blank">
@@ -43,9 +43,9 @@ Here are some of the tools and technologies I enjoy working with:
 </div>
 
 - **MS Office Suite**: Word, PowerPoint, Excel
-- **Programming Languages**: Python, C+, MATLAB.
+- **Programming Languages**: Python, C+, C#, MATLAB, Latex.
 - **Operating Systems**: Linux, MacOS
-- **Software & Tools**: Robot Operating System (ROS), Stonefish, Gazebo, Rosbag, Pybullet, CodeBlocks, Visual Studio, Proteus Design Suite, AutoCAD, Adobe Illustrator, Simulink
+- **Software & Tools**: Robot Operating System (ROS), Stonefish, Gazebo, Rosbag, Unity, Pybullet, CodeBlocks, Visual Studio, Proteus Design Suite, AutoCAD, Adobe Illustrator, Simulink
 - **Machine Learning**: TensorFlow, Scikit-Learn, PyTorch
 - **Visualization**: Rviz, Plotjuggler, Matplotlib, Seaborn
 - **Computer Vision**: MATLAB, OpenCV
