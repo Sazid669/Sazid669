@@ -30,8 +30,8 @@ My passion lies in merging robotics with AI to address intricate problems and ma
 ## 🎉 Fun Fact: <span style="color: #DAA520;">I love paying football </span>
 
 ## 🤝 Connect with Me:
-<a href="https://www.linkedin.com/in/mir-mohibullah-sazid-a2ba80194/" target="_blue">
-    <img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/linkedin.png" alt="LinkedIn" style="width: 50px; height: 50px;">
+<a href="https://www.linkedin.com/in/mir-mohibullah-sazid-a2ba80194/" target="_blank">
+    <img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/linkedin.png" alt="LinkedIn" style="width: 50px; height: 50px; filter: invert(41%) sepia(100%) saturate(3333%) hue-rotate(188deg) brightness(93%) contrast(101%);">
 </a>
 <a href="https://scholar.google.com/citations?user=TKrHms8AAAAJ&hl=en&oi=sra" target="_blank">
     <img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/googlescholar.png" alt="Google Scholar" style="width: 50px; height: 50px;">
