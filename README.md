@@ -38,10 +38,7 @@ My passion lies in merging robotics with AI to address intricate problems and ma
 <a href="https://scholar.google.com/citations?user=TKrHms8AAAAJ&hl=en&oi=sra" target="_blank">
     <img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/googlescholar.png" alt="Google Scholar" style="width: 50px; height: 50px;">
 </a>
-</a>
- <a href="https://scholar.google.com/citations?user=TKrHms8AAAAJ&hl=en" target="_blank">
-    <img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/googlescholar.png" alt="Google Scholar" style="width:30px; height:30px;">
-</a>
+
 
 
 ## 🛠️ My Technical Toolbox
