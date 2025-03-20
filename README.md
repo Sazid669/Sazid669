@@ -60,11 +60,11 @@ Discover more about my projects, achievements, and professional journey on my di
 </div>
 
 ## 📈 GitHub Stats
-![Sazid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sazid669&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sazid669&theme=dark)
-
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sazid669&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Sazid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sazid669&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sazid669&theme=dark)
+</div>
 
 <div style="color: #00BFFF;">
 Thanks for visiting! If you're intrigued by the intersection of technology and creativity, let's connect and create something remarkable together.
