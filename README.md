@@ -4,6 +4,8 @@
 Welcome to my GitHub space! 🌟 As a Robotics Engineer, I thrive on designing robots that seamlessly navigate obstacles, autonomously find their paths, and manipulate objects with finesse—turning futuristic ideas into reality.
 </div>
 
+![](https://komarev.com/ghpvc/?username=Sazid669&label=PROFILE+VIEWS)
+
 ## 🤖 About Me
 <div style="color: #FF6347;">
 My passion lies in merging robotics with AI to address intricate problems and make daily tasks more efficient. Here's a snapshot of my journey:
