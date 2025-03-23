@@ -65,7 +65,6 @@ Discover more about my projects, achievements, and professional journey on my di
     
 ![Sazid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sazid669&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sazid669&theme=dark)
 </div>
 
 <div style="color: #00BFFF;">
