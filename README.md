@@ -58,22 +58,25 @@ My passion lies in merging robotics with AI to address intricate problems and ma
       <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
       <img src="https://img.shields.io/badge/-MATLAB-orange?style=flat&logo=mathworks&logoColor=white"/>
       <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Verilog%20HDL-8B0000?style=flat" alt="Verilog HDL"/>
     </td>
   </tr>
   
   <tr>
-    <td><b>🤖 Machine Learning & AI</b></td>
+    <td><b>🤖 Libraries</b></td>
     <td>
+      <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
       <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
       <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
     </td>
   </tr>
 
   <tr>
-    <td><b>🧠 Computer Vision & Simulation</b></td>
+    <td><b>🧠 Simulation</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white"/>
       <img src="https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Gazebo-9D6ADE?style=flat"/>
@@ -86,13 +89,12 @@ My passion lies in merging robotics with AI to address intricate problems and ma
   <tr>
     <td><b>🧰 Tools & Platforms</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Code::Blocks-000000?style=flat"/>
       <img src="https://img.shields.io/badge/-AutoCAD-E2231A?style=flat"/>
       <img src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white"/>
       <img src="https://img.shields.io/badge/-ROSBag-556B2F?style=flat"/>
-      🪝 Stonefish
-      🧾 MS Office
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Stonefish-008080?style=flat" alt="Stonefish"/>
     </td>
   </tr>
 
@@ -101,7 +103,7 @@ My passion lies in merging robotics with AI to address intricate problems and ma
     <td>
       <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat"/>
       <img src="https://img.shields.io/badge/-Seaborn-4B8BBE?style=flat"/>
-      📉 PlotJuggler
+      <img src="https://img.shields.io/badge/-PlotJuggler-1E90FF?style=flat" alt="PlotJuggler"/>
     </td>
   </tr>
 
