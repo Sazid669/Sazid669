@@ -27,7 +27,7 @@ My passion lies in merging robotics with AI to address intricate problems and ma
 
 ### 📢 Reach Out to Me: <a href="mailto:sazidarnob@gmail.com"><img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/footer-mail.png" alt="Email" style="width: 30px; height: 30px;"></a>
 
-## 😄 Pronouns: <span style="color: #FF1493;">He/Him</span>
+
 
 ## 🎉 Fun Fact: <span style="color: #DAA520;">I love paying football </span>
 
@@ -42,17 +42,45 @@ My passion lies in merging robotics with AI to address intricate problems and ma
 
 
 ## 🛠️ My Technical Toolbox
-<div style="color: #FF8C00;">
-Here are some of the tools and technologies I enjoy working with:
-</div>
 
-- **MS Office Suite**: Word, PowerPoint, Excel
-- **Programming Languages**: Python, C+, C#, MATLAB, Latex.
-- **Operating Systems**: Linux, MacOS
-- **Software & Tools**: Robot Operating System (ROS), Stonefish, Gazebo, Rosbag, Unity, Pybullet, CodeBlocks, Visual Studio, Proteus Design Suite, AutoCAD, Adobe Illustrator, Simulink
-- **Machine Learning**: TensorFlow, Scikit-Learn, PyTorch
-- **Visualization**: Rviz, Plotjuggler, Matplotlib, Seaborn
-- **Computer Vision**: MATLAB, OpenCV
+### 👨‍💻 Languages & Programming  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
+![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat&logo=mathworks&logoColor=white)  
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)  
+
+### 🤖 Machine Learning & AI  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+
+### 🧠 Computer Vision & Simulation  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)  
+![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white)  
+![Gazebo](https://img.shields.io/badge/-Gazebo-9D6ADE?style=flat)  
+![RViz](https://img.shields.io/badge/-RViz-8A2BE2?style=flat)  
+![PyBullet](https://img.shields.io/badge/-PyBullet-378D5C?style=flat)  
+![Simulink](https://img.shields.io/badge/-Simulink-FF9C00?style=flat)  
+
+### 🧰 Tools & Platforms  
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)  
+![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-000000?style=flat)  
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-E2231A?style=flat)  
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)  
+![ROSbag](https://img.shields.io/badge/-Rosbag-556B2F?style=flat)  
+🪝 Stonefish  
+🧾 MS Office Suite (Word, Excel, PowerPoint)
+
+### 📊 Visualization & Analysis  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)  
+![Seaborn](https://img.shields.io/badge/-Seaborn-4B8BBE?style=flat)  
+📉 PlotJuggler  
+
+### 💻 Operating Systems  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
 
 ## 🌍 Explore My Personal Website
 <div style="color: #20B2AA;">
