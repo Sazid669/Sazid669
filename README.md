@@ -61,8 +61,6 @@ Discover more about my projects, achievements, and professional journey on my di
 
 ## 📈 GitHub Stats
 <div align="center">
- ## 🧠 GitHub Stats
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sazid669&langs_count=8&layout=compact&theme=dracula" width="400px">
 
 ![Sazid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sazid669&show_icons=true&theme=tokyonight)
