@@ -123,22 +123,22 @@ Discover more about my projects, achievements, and professional journey on my di
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Sazid669&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="47%" alt="GitHub Stats"/>
+<!-- Full GitHub Stats with private repo access -->
+<img src="https://github-readme-stats-mocha-omega-20.vercel.app/api?username=Sazid669&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="47%" alt="GitHub Stats"/>
 
 <!-- Donut-style Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sazid669&layout=donut&langs_count=6&theme=dracula" width="47%" alt="Top Languages Donut"/>
+<img src="https://github-readme-stats-mocha-omega-20.vercel.app/api/top-langs/?username=Sazid669&layout=donut&langs_count=6&theme=dracula" width="47%" alt="Top Languages"/>
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sazid669&theme=tokyonight&hide_border=false" width="95%" alt="Streak Stats"/>
+<!-- GitHub Streak (no token required) -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sazid669&theme=tokyonight" width="95%" alt="Streak Stats"/>
 
-<!-- Contribution Graph -->
+<!-- Contribution Activity Graph (no token required) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sazid669&theme=tokyo-night&hide_border=true" width="95%" alt="Activity Graph"/>
 
 </div>
 
+---
+
 <div align="center">
-    
-🌟 **Thanks for visiting!**  
-Let’s build something amazing together — one commit at a time. 🚀
+✨ Powered by curiosity, built with code. Let’s innovate together! 🚀
 </div>
