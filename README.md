@@ -15,7 +15,7 @@ My passion lies in merging robotics with AI to address intricate problems and ma
 <div style="color: #4682B4;">
 - Object tracking
 - Transfer Learning
-- Synthetic dataset generation
+- Robot Manipulation
 </div>
 
 ## 🤼 Seeking Collaboration On
