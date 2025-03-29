@@ -129,7 +129,7 @@ Discover more about my projects, achievements, and professional journey on my di
 <img src="https://github-readme-stats-mocha-omega-20.vercel.app/api?username=Sazid669&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="47%" alt="GitHub Stats"/>
 
 <!-- Donut-style Top Languages -->
-<img src="https://github-readme-stats-mocha-omega-20.vercel.app/api/top-langs/?username=Sazid669&layout=donut&langs_count=10&theme=dracula" width="18%" alt="Top Languages"/>
+<img src="https://github-readme-stats-mocha-omega-20.vercel.app/api/top-langs/?username=Sazid669&layout=donut&langs_count=10&theme=dracula&cache_seconds=86400" />
 
 <!-- Contribution Activity Graph (no token required) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sazid669&theme=tokyo-night&hide_border=true" width="95%" alt="Activity Graph"/>
