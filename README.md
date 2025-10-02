@@ -15,14 +15,14 @@ My passion lies in merging robotics with AI to address intricate problems and ma
 <div style="color: #4682B4;">
 - Flow matching
 - Transfer Learning
-- Robot Navigation
+- Uneven terrain Navigation
 </div>
 
 ## 🤼 Seeking Collaboration On
 <div style="color: #32CD32;">
 - Computer Vision Initiatives
-- Deep Learning Algorithms
-- Cutting-Edge Path Planning Methods
+- Machine Learning Algorithms
+- Cutting-Edge Navigation 
 </div>
 
 ### 📢 Reach Out to Me: <a href="mailto:sazidarnob@gmail.com"><img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/footer-mail.png" alt="Email" style="width: 30px; height: 30px;"></a>
