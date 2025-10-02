@@ -13,9 +13,9 @@ My passion lies in merging robotics with AI to address intricate problems and ma
 
 ## 🌱 Currently Exploring
 <div style="color: #4682B4;">
-- Object tracking
+- Flow matching
 - Transfer Learning
-- Robot Manipulation
+- Robot Navigation
 </div>
 
 ## 🤼 Seeking Collaboration On
