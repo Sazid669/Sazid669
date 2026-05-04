@@ -121,18 +121,18 @@ My passion lies in merging robotics with AI to address intricate problems and ma
 Discover more about my projects, achievements, and professional journey on my digital portfolio: <a href="https://sites.google.com/view/mir-mohibullah-sazid/home" style="color: #20B2AA;">Mir Mohibullah Sazid</a>.
 </div>
 
-## 📊 GitHub Insights
+
 
 <div align="center">
 
 <!-- Donut-style Top Languages -->
-<img src="https://github-readme-stats-mocha-omega-20.vercel.app/api/top-langs/?username=Sazid669&layout=donut&langs_count=10&theme=dracula&cache_seconds=86400" />
+<!-- <img src="https://github-readme-stats-mocha-omega-20.vercel.app/api/top-langs/?username=Sazid669&layout=donut&langs_count=10&theme=dracula&cache_seconds=86400" /> -->
 
 <!-- Full GitHub Stats with private repo access -->
-<img src="https://github-readme-stats-mocha-omega-20.vercel.app/api?username=Sazid669&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="70%" alt="GitHub Stats"/>
+<!-- <img src="https://github-readme-stats-mocha-omega-20.vercel.app/api?username=Sazid669&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="70%" alt="GitHub Stats"/> -->
 
 <!-- Contribution Activity Graph (no token required) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sazid669&theme=tokyo-night&hide_border=true" width="95%" alt="Activity Graph"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sazid669&theme=tokyo-night&hide_border=true" width="95%" alt="Activity Graph"/> -->
 
 </div>
 
